@@ -1,2 +1,2 @@
 # Spam-Email-Classification
- Spam Email Classification using NLP for Machine Learning Internship from Edunet Foundation 
+ This project implements a spam email classification system using Natural Language Processing (NLP) and machine learning. The model leverages Naive Bayes for classification and Count Vectorizer for feature extraction. A simple, interactive interface built on Streamlit allows users to classify emails as spam or ham in real-time. The model is trained on a labeled dataset and can be easily deployed and integrated into email systems for efficient spam filtering.
